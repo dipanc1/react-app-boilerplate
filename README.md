@@ -2,6 +2,9 @@
 
 This is react web app boilerplate to save time.
 
-run
-### npm install/i 
+```bash
+  cd react-app-boilerplate
+  npm install 
+  npm start
+```
 and it's done
